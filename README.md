@@ -5,19 +5,40 @@ Generative AI Foundations: Algorithms and Architectures
 
 **Generative AI - Algorithms:**
 
-Flow Models
+1. Flow Models
 
-ODE-based Flow Models - Flow Matching
+2. ODE-based Flow Models - Flow Matching
 
-SDE-based Denoising Diffusion Models - Score Matching
+3. SDE-based Denoising Diffusion Models - Score Matching
 
-Denoising Diffusion Models
+4. Denoising Diffusion Models
 
-Autoencoder & Variational Autoencoder (VAE)
+5. Autoencoder & Variational Autoencoder (VAE)
 
-Latent-Space Diffusion Model
+6. Latent-Space Diffusion Model
 
-Autoregressive Models
+7. Autoregressive Models
 
-Generative Adversarial Networks (GANs)
+8. Generative Adversarial Networks (GANs)
+
+**Generative AI - Architectures:**
+
+1. Multilayer Perceptron (MLP)
+2. Training, Different Loss functions
+3. Backpropagation algorithm, Stochastic Gradient Descent (SGD), Adam Optimizer
+4. Common Training Issues and Regularization in Deep Learning
+5. Gen AI Input/Output/Layer Types
+6. Convolutional Neural Network (CNN)
+7. PixelCNN
+8. U-Net Denoising Model
+9. Recurrent Neural Networks (RNN)
+10. LSTM (Long Short-Term Memory)
+11. GRU (Gated Recurrent Unit)
+12. Transformers
+13. Multi-Head Attention, Self Attention, Cross Attention
+14. Diffusion Transformers (DiT)
+15. Multimodal Models
+
+
+
 
