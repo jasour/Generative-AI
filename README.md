@@ -40,5 +40,12 @@ Generative AI Foundations: Algorithms and Architectures
 15. Multimodal Models
 
 
+**Appendices:**
+
+1. Key Differential Equations in Generative AI
+2. Fine-Tuning Large Language Models
+3. Deep Reinforcement Learning - Key Concepts and Summary
+4. Reinforcement Learning from Human Feedback (RLHF) and Imitation Learning
+
 
 
