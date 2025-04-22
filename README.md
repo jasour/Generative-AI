@@ -46,6 +46,7 @@ Generative AI Foundations: Algorithms and Architectures
 2. Fine-Tuning Large Language Models
 3. Deep Reinforcement Learning - Key Concepts and Summary
 4. Reinforcement Learning from Human Feedback (RLHF) and Imitation Learning
+5. Adversarial Training, Robustness in Language Models, Language Models Evaluation
 
 
 
