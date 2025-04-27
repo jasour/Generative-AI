@@ -5,6 +5,8 @@ Generative AI Foundations: Algorithms and Architectures
 Complete with references to seminal research papers and emerging methodologies, this work serves as a valuable learning resource for advanced students, researchers, and practitioners aiming to master the foundations and frontiers of generative AI.
 It extends the discussion to real-world applications, notably robotic trajectory generation using diffusion models, illustrating how generative AI principles can be applied beyond image and text generation. 
 
+A comprehensive and rigorous guide to the foundations of Generative AI, covering key algorithms, architectures, and real-world applications such as robotic control using diffusion models. Designed for advanced learners and practitioners seeking both mathematical depth and practical insight.
+
 
 **Topics:**
 
