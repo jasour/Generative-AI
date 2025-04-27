@@ -1,6 +1,11 @@
 # Generative-AI
 Generative AI Foundations: Algorithms and Architectures
 
+“Generative AI Foundations: Algorithms and Architectures” is a comprehensive and technically rigorous guide to modern generative modeling techniques. It systematically covers fundamental principles, key algorithms (such as flow models, diffusion models, VAEs, GANs, and autoregressive models), and the underlying neural network architectures (such as CNNs, U-Nets, Transformers, and multimodal architectures) that enable state-of-the-art generative AI systems. The course balances mathematical depth with conceptual clarity, providing precise formulations of training objectives, optimization methods, and sampling strategies.
+Complete with references to seminal research papers and emerging methodologies, this work serves as a valuable learning resource for advanced students, researchers, and practitioners aiming to master the foundations and frontiers of generative AI.
+It extends the discussion to real-world applications, notably robotic trajectory generation using diffusion models, illustrating how generative AI principles can be applied beyond image and text generation. 
+
+
 **Topics:**
 
 **Generative AI - Algorithms:**
@@ -44,10 +49,14 @@ Generative AI Foundations: Algorithms and Architectures
 **Appendices:**
 
 1. Key Differential Equations in Generative AI
-2. Fine-Tuning Large Language Models
+2. Fine-tuning Large Language Models
 3. Deep Reinforcement Learning - Key Concepts and Summary
+	– PG, VPG, PPO, DDPG, TD3, SAC
 4. Reinforcement Learning from Human Feedback (RLHF) and Imitation Learning
-5. Adversarial Training, Robustness in Language Models, Language Models Evaluation
+5. Adversarial Training, Robustness in Language Models, and Language Models Evaluation
+6. Python Libraries for Generative AI 
+
+
 
 
 
